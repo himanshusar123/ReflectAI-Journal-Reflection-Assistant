@@ -1,0 +1,12 @@
+{
+  "projectId": "my-gcp-project-497405",
+  "appId": "1:512802887856:web:fbc51b6a1131334fb5c375",
+  "apiKey": "AIzaSyCKV0R-uoAgM2McOtxsNYhnAdOD82LWhZk",
+  "authDomain": "my-gcp-project-497405.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-be56ca27-fb97-42dc-b556-4a78b0f513b5",
+  "storageBucket": "my-gcp-project-497405.firebasestorage.app",
+  "messagingSenderId": "512802887856",
+  "measurementId": "",
+  "oAuthClientId": "512802887856-7tct6e24ofn94ha8ningp7uepdpnjh31.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
